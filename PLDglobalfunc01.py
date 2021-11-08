@@ -1,4 +1,4 @@
-# Programming using Global function.
+# Programming using Global Function.
 
 def getUserinput():
     name_=input ("Name: ")
@@ -15,7 +15,8 @@ def display(name_, age_, add_):
 #Steps in making this program
 # 1.step ask for name age address save to variable
 name, age, add = getUserinput() 
-# The global function contain a lot of variable of the program.
+# The global function contains a lot of variable of the program.
+# To use display or displayoutput variables used must be included.
 # 2. step display name age and address display 
 
 display(name, age, add)   
