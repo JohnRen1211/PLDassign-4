@@ -14,8 +14,8 @@ def displayOutput (maxApples,remainMoney):
 
 #Steps in making this program
 # 1. Check the amount of money in wallet.
-# 2.step ask for how many money left in wallet.
-# 3.step ask for how much is an apple.
+# 2.step ask for how many money left in wallet use float for variable.
+# 3.step ask for how much is an apple use float.
 # 4.step display the maximum apples that can be bought and the remaining money.
 # 5.step show the apples can buy and the remaing money by using global function.
 
