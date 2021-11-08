@@ -21,7 +21,7 @@ def display (applesFunc, orangesFunc, amountFunc):
 # 3.Step ask for how many oranges you want to buy.
 # 4.Step show the total amount that need to be paid in the display.
 # 5.The functions used must be combined to apply the global function.
-# 6.The variables must be assigned to the fucntion to call using display.
+# 6.The variables can use int or float for converting the value.
 apples,oranges,amount= getFruitamount() 
 display(apples,oranges,amount) 
 
