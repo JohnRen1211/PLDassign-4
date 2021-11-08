@@ -19,7 +19,7 @@ def display (applesFunc, orangesFunc, amountFunc):
 # 1.Show the price of the fruits in the market.
 # 2.Step ask for how many apples you want to buy.
 # 3.Step ask for how many oranges you want to buy.
-# 4.Step show the total amount that need to be paid.
+# 4.Step show the total amount that need to be paid in the display.
 # 5.The functions used must be combined to apply the global function.
 # 6.The variables must be assigned to the fucntion to call using display.
 apples,oranges,amount= getFruitamount() 
