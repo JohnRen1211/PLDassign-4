@@ -13,11 +13,11 @@ def displayOutput (maxApples,remainMoney):
      print(f"The amount of apples I can buy are {maxApples} and the remaining money is {remainMoney} pesos.")
 
 # Steps in making this program
-# 1.Check the amount of money in wallet.
-# 2.step ask for how many money left in wallet use float for variable.
-# 3.step ask for how much is an apple use float.
-# 4.step display the maximum apples that can be bought and the remaining money.
-# 5.step show the apples can buy and the remaing money by using global function.
+# 1.Check the amount of the money in wallet.
+# 2.Step ask for how many money left in wallet use float for variable.
+# 3.Step ask for how much is an apple use float.
+# 4.Sep display the maximum apples that can be bought and the remaining money.
+# 5.Step show the apples can buy and the remaing money by using global function.
 
 money,apple,maximumApple,remaincash = fruitRemainmoney()
 
