@@ -23,6 +23,6 @@ money,apple,maximumApple,remaincash = fruitRemainmoney()
 
 displayOutput(maximumApple,remaincash)
 
-print("Thank you for shopping")   
+print("Thank you for shopping healthy fruits for the body")    
 
 
